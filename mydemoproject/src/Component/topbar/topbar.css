@@ -7,6 +7,7 @@
     position: sticky;
     top: 0;
     border-radius: 100px;
+    mix-blend-mode: color;
 }
 .topbarLeft{
     flex: 5;
