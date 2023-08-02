@@ -19,7 +19,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: none;
     color: black;
-    position: fixed;
+    position: absolute;
     margin-top: -15px;
 }
 .topbarCenter{
@@ -50,17 +50,18 @@
 }
 .topbarRight{
     display: contents;
-    align-items: end;
+    align-items: center;
     justify-content: space-around;
     margin-right: 3px;
     flex: 4;
-    position: fixed;
+    position: absolute;
 }
 .topbarlink{
     margin-right: 10px;
     font-weight: 600;
     cursor: pointer;
     color: crimson;
+    position: relative;
 }
 .topbarIcons{
     display: flex;
