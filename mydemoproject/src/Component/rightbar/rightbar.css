@@ -16,6 +16,7 @@
 }
 .birthdayText{
     font-size: 15px;
+    color: black;
 }
 .rightbarAd{
     width: 100%;
@@ -63,4 +64,6 @@
 }
 .rightbarUsername{    
     font-weight: 500px;
+    color: cadetblue;
+    font-weight: 700;
 }

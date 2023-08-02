@@ -17,7 +17,7 @@ return(
 
 <img src="kohli1.jpg" alt="kohli" className="shareProfileImg" />
 
-<input placeholder="What's in your mind Raj" className="shareInput"/>
+<input placeholder="Think, Write, Upload and Enter. Hurray!! You shared" className="shareInput"/>
 
 </div>
 
@@ -57,7 +57,7 @@ return(
 </div>
 
 </div>
-<button>Share</button>
+<button className="shareButton1">Share</button>
 
 </div>
 

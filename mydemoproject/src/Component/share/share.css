@@ -1,5 +1,4 @@
 .share{
-
     width: 100%;
     height: 170px;
     border-radius: 10px;
@@ -52,6 +51,7 @@
 .shareOptionText{
     font-weight: 500px;
     font-size: 14px;
+    color: chocolate;
 }
 .shareButton1{
     border: none;

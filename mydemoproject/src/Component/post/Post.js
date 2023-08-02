@@ -50,9 +50,9 @@ return (
 
 <div className="postButtonLeft">
 
-<img src="like1.jpg" alt="" className="likeIcon"/>
+<img src="like.png" alt="" className="likeIcon"/>
 
-<img src="heart1.jpg" alt="" className="likeIcon"/>
+<img src="heart.png" alt="" className="likeIcon"/>
 
 <span className="postlikeCounter">{post.like} people like it</span>
 
