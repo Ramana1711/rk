@@ -17,7 +17,8 @@ function Form(){
     const[classmode,setSelectClassMode]=useState("")
     const[comments,setComments]=useState("")
     const[passwordError,setPasswordError]=useState(false)
-     const handleOptionChange=(event)=>{
+     
+    const handleOptionChange=(event)=>{
         setSelectOption(event.target.value)
      }
      const handleOption=(event)=>{
